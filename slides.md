@@ -24,7 +24,6 @@ You can use *subject terms* to find primary sources in JumboSearch. Just pair th
 #### Example database
 * [History Vault](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=proquesthistoryvault)
 
-
 #### Group work: Evaluate the following:
 * [Slavery and Anti-Slavery: A Transnational Archive](https://go-gale-com.ezproxy.library.tufts.edu/ps/start.do?p=SAS&u=mlin_m_tufts)
 * [Migration to New Worlds](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=migrationtonewworlds)
