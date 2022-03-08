@@ -46,4 +46,9 @@ You can use *subject terms* to find primary sources in JumboSearch. Just pair th
 
 3. Find secondary sources useful for interpreting your primary source.
 
+* Protip: How to find town histories:
+    * search by subject heading in this format town (state abr.) history
+    * Ex. "Morristown (tenn.) history"
+    * [Guide to state abbreviations](https://www.loc.gov/cds/desktop/cheatsheets/provinces_states_abbreviations.pdf)
+
 4. Place the primary source in conversation with other relevant primary sources
