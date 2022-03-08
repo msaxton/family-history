@@ -33,6 +33,12 @@ You can use *subject terms* to find primary sources in JumboSearch. Just pair th
 * [The Freedman's Bureau Online](http://freedmensbureau.com/)
 * [Immigrant Ships Transcribers Guild](http://www.immigrantships.net)
 
+### General suggestions for searching databases
+1. Use key words from your topic: who, what, where, when...
+2. Start with specific terms, but use general terms if necessary.
+3. See if there is a "browse" option to discover what is in the database
+4. Pay attention to search fields, i.e. "search anywhere", "geography", "personal name" etc.
+
 
 ### Contextualizing primary sources
 
