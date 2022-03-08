@@ -21,7 +21,11 @@ You can use *subject terms* to find primary sources in JumboSearch. Just pair th
 * What questions can I answer using this database?
 * Is the database easy to use?
 
-#### Example Databases
+#### Example database
+* [History Vault](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=proquesthistoryvault)
+
+
+#### Group work: Evaluate the following:
 * [Slavery and Anti-Slavery: A Transnational Archive](https://go-gale-com.ezproxy.library.tufts.edu/ps/start.do?p=SAS&u=mlin_m_tufts)
 * [Migration to New Worlds](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=migrationtonewworlds)
 * [American Indian Newspapers](https://www-americanindiannewspapers-amdigital-co-uk.ezproxy.library.tufts.edu/)
@@ -46,8 +50,8 @@ You can use *subject terms* to find primary sources in JumboSearch. Just pair th
 
 3. Find secondary sources useful for interpreting your primary source.
 
-* Protip: How to find town histories:
-    * search by subject heading in this format town (state abr.) history
+* Pro-tip: How to find town histories:
+    * search by subject heading in this format: "town (state abr.) history
     * Ex. "Morristown (tenn.) history"
     * [Guide to state abbreviations](https://www.loc.gov/cds/desktop/cheatsheets/provinces_states_abbreviations.pdf)
 
