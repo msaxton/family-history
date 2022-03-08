@@ -1,0 +1,49 @@
+## Finding and Contextualizing Primary Sources
+#### Family Histories and American Culture
+
+
+### Hello, I'm Micah.
+<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
+<br>
+micah.saxton@tufts.edu
+
+
+### Finding primary sources
+
+#### JumboSearch
+You can use *subject terms* to find primary sources in JumboSearch. Just pair the appropriate subject term with your keywords.
+
+#### Primary source databases
+
+#### Evaluating a database
+* What is the geographic and temporal scope of the database?
+* What kinds of primary sources does the database contain?
+* What questions can I answer using this database?
+* Is the database easy to use?
+
+#### Example Databases
+* [Slavery and Anti-Slavery: A Transnational Archive](https://go-gale-com.ezproxy.library.tufts.edu/ps/start.do?p=SAS&u=mlin_m_tufts)
+* [Migration to New Worlds](https://www.library.tufts.edu/ezproxy/ezproxy.asp?location=migrationtonewworlds)
+* [American Indian Newspapers](https://www-americanindiannewspapers-amdigital-co-uk.ezproxy.library.tufts.edu/)
+* [Chronicling America: Historic American Newspapers](https://chroniclingamerica.loc.gov/)
+* [Family Stories from the Trail of Tears](https://ualrexhibits.org/tribalwriters/artifacts/Family-Stories-Trail-of-Tears.html#Carnes)
+* [The Freedman's Bureau Online](http://freedmensbureau.com/)
+* [Immigrant Ships Transcribers Guild](http://www.immigrantships.net)
+
+
+### Contextualizing primary sources
+
+1. Examine the primary source
+
+    * What kind of primary source is it?
+    * Who created it?
+    * What assumptions are reflected in it?
+    * Why was it created?
+    * What can I learn from this primary source?
+    * What information does this primary source conceal?
+
+2. Use reference sources for contextual or background information for the primary source.
+
+3. Find secondary sources useful for interpreting your primary source.
+
+4. Place the primary source in conversation with other relevant primary sources
